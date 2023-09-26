@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
+[![MasterHead](https://media1.giphy.com/media/lXHwJv89PvdN200Anr/200.webp?cid=ecf05e47synn7rr8o893asbtgszqjh5zl6o9vvbad3rnp3vy&ep=v1_gifs_search&rid=200.webp&ct=g)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Wajahat Ali</h1>
 <h3 align="center">A passionate Software developer from Pakistan</h3>
