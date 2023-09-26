@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7DxLAjnbg-YopB8cUOtqSp_LcrCG08zGlnA&usqp=CAU)](https://rishavchanda.io)
+[![MasterHead](https://raw.githubusercontent.com/majdimokhtar/github-images/main/newbannerjs.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Wajahat Ali</h1>
 <h3 align="center">A passionate Software developer from Pakistan</h3>
